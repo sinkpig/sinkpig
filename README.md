@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Milo and my online tag is @sinkpig
+- 👀 I’m interested in web design and design in general
+- 🌱 I’m currently learning Javascript
+- 📫 Reach me @ https://www.linkedin.com/in/milo-ramirez-537b99211/
