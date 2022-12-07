@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Milo and my online tag is @sinkpig
-- 👀 I’m interested in web development and design
-- 🌱 I’m currently learning Ruby
+- 👀 I'm a frontend developer who's also a designer
+- 🌱 I’m currently learning Ruby and Rails
 - 📫 Reach me @ https://www.linkedin.com/in/milo-ramirez-537b99211/
 - 💼 Check out my Portfolio https://sinkpig-768e0.web.app/
