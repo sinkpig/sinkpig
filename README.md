@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Milo and my online tag is @sinkpig
 - 👀 I'm a frontend developer who's also a designer
 - 🌱 I’m currently learning React and Next.js
-- 📫 Reach me @ https://www.linkedin.com/in/milo-ramirez/
 - 💼 Check out my Portfolio https://sinkpig-768e0.web.app/
