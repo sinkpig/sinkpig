@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sinkpig-768e0.web.app/](https://sinkpig-768e0.web.app/)
 
-- 📫 How to reach me **sinkpig00@gmail.com**
+- 📫 How to reach me **<a href="mailto:milo.ramirez.c@proton.me">milo.ramirez.c@proton.me</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
