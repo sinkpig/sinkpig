@@ -1,16 +1,27 @@
-<h1 align="center">Hello world! I'm sinkpig</h1>
-<h3 align="center">I'm a frontend developer who's also a designer</h3>
+<h1>Hello world! I'm Milo Ramirez</h1>
+<h3>I'm a Front End Developer with a strong background in design</h3>
 
-- 🌱 I’m currently learning **React and Next.js**
-
-- 👨‍💻 All of my projects are available at [https://sinkpig-768e0.web.app/](https://sinkpig-768e0.web.app/)
-
-- 📫 How to reach me **<a href="mailto:milo.ramirez.c@proton.me">milo.ramirez.c@proton.me</a>**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/milo-ramirez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milo-ramirez" height="30" width="40" /></a>
-</p>
+<ul>
+  <li>What I work with day-to-day:
+    <code>.html</code>
+    <code>.css</code>
+    <code>.js</code>
+    <code>.jsx</code>
+    <code>.tsx</code>
+    <code>.svg</code>
+    <code>.psd</code>
+    <code>.ai</code>
+  </li>
+  <li>Worked on:
+    <a href="https://ezaligner.com/" target="_blank">ezaligner.com</a>
+    <a href="https://magictraffic.ai/" target="_blank">magictraffic.ai</a>
+    <a href="https://crediswap.com/" target="_blank">crediswap.com</a>
+    <a href="https://mariaisabelvega.com/" target="_blank">mariaisabelvega.com</a>
+  </li>
+  <li>👨‍💻 Check out my <a href="https://sinkpig-768e0.web.app/" terget="_blank">portfolio</a></li>
+  <li>💼 Connect with me on <a href="https://linkedin.com/in/milo-ramirez" target="blank">LinkedIn</a></li>
+  <li>📫 Reach out to me at <a href="mailto:milo.ramirez.c@proton.me">milo.ramirez.c@proton.me</a></li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p dir=auto">
